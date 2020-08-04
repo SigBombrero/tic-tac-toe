@@ -132,7 +132,7 @@ class Game extends React.Component {
                             />
                         </div>
                         <div className="game-info">
-                            <div class="font">{status}</div>
+                            <div class="status-font">{status}</div>
                             <ol>{moves}</ol>
                         </div>
                     </div>
